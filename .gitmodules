@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:uran13/full-stack-tool-demo-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:uran13/full-stack-tool-demo-web.git
